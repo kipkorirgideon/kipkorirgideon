@@ -1,1 +1,1 @@
-Iam a software engineer with a passion for building scalable and maintainable software. I have experience in building web applications using python, django, nextjs, nodejs, typescript, javascript, PostgreSQL, MongoDB and other web technologies. I have also worked with cloud services such  Digital Ocean and Heroku.
+
