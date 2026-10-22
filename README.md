@@ -38,7 +38,6 @@ I hold a First Class Honours degree in Medical Engineering from the Technical Un
 ## GitHub Activity
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kipkorirgideon&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kipkorirgideon&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
